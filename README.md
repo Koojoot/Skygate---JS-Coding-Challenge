@@ -1,0 +1,2 @@
+# Skygate---JS-Coding-Challenge
+:-)
